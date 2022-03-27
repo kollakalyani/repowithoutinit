@@ -1,0 +1,7 @@
+linux commands:
+LS: to show list of files in the floder 
+cat: to show contante of file
+touch: it creat new file
+clear: clear the screen
+vi: it create new file and open editor write or modife the contant of the file
+pwd: it show present active directory
